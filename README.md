@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a self thought Python developer 
+self tought full stack web-developer 
 
 
 # 💻 Tech Stack:
